@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MCSClientTouchWPF.Views
+namespace WPFLib.Controls.LoadingView
 {
     /// <summary>
     /// Interaction logic for LoadingView.xaml
